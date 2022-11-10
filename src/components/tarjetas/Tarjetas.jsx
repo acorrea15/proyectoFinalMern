@@ -4,8 +4,8 @@ import { Card, Button } from 'react-bootstrap'
 const Tarjetas = () => {
   return (
     <>
-     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+     <Card className='mt-5' style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://http2.mlstatic.com/D_NQ_NP_813398-MLA49715524038_042022-O.webp" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
